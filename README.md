@@ -1,4 +1,4 @@
-## Hi there 👋
+My name is Nyoro Christopher a UI/UX developer with knowledge in block chain and cryptocurrency. I am also currently learning about IoT with SBCs particularly thr Raspberry Pi.
 
 <!--
 **Christopher444-dev/Christopher444-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
